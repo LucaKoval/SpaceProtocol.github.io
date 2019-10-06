@@ -5,7 +5,8 @@
   "author": "Luca Koval",
   "repository": "git@github.com:SpaceProtocol/SpaceProtocol.github.io",
   "dependencies": {
+    "lodash": "^4.17.15",
     "react": "^16.10.2"
   },
-  "license": "MIT",
+  "license": "MIT"
 }
