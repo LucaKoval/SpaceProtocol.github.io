@@ -6,5 +6,6 @@
   "repository": "git@github.com:SpaceProtocol/SpaceProtocol.github.io",
   "dependencies": {
     "react": "^16.10.2"
-  }
+  },
+  "license": "MIT",
 }
