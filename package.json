@@ -5,8 +5,20 @@
   "author": "Luca Koval",
   "repository": "git@github.com:SpaceProtocol/SpaceProtocol.github.io",
   "dependencies": {
+    "create-react-app": "^3.2.0",
     "lodash": "^4.17.15",
-    "react": "^16.10.2"
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
   },
-  "license": "MIT"
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom"
+  },
+  "license": "MIT",
+  "homepage": "http://SpaceProtocol.github.io/SpaceProtocol.github.io",
+  "devDependencies": {
+    "gh-pages": "^2.1.1",
+    "react-scripts": "^3.2.0"
+  }
 }
