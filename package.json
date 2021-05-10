@@ -6,7 +6,7 @@
   "repository": "git@github.com:SpaceProtocol/SpaceProtocol.github.io",
   "dependencies": {
     "create-react-app": "^3.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "^16.10.2",
     "react-dom": "^16.10.2"
   },
